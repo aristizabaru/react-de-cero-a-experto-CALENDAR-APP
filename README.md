@@ -4,7 +4,7 @@
 
 Este es un repositorio personal para ejecución del proyecto del curso **React: De cero a experto (CALENDAR APP)** de **Fernando Herrera** en la plataforma Udemy. Para acceder al curso completo puede hacer [clic aquí](https://www.udemy.com/course/react-cero-experto/)
 
-El proyecto desarrollado a continuación se explora conceptos XXXXX.
+El proyecto desarrollado a continuación se explora conceptos de autenticación, protección de rutas, gestión de estado global con redux toolkit y el consumo de un backend para la persistencia de datos del Calendario.
 
 Dentro de la configuración y desarrollo del proyecto se usa [Vite](https://vitejs.dev/) como bundler.
 
